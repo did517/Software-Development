@@ -20,5 +20,5 @@ I’m still learning to enjoy coding, but I feel motivated when I build somethin
 ##  Why I'm Taking This Program
 
 I'm taking this program because I want to build a solid foundation in coding.  
-After completing this program, I plan to study cybersecurity at university, and, my end goal is to build a carrer in that field.  
+After completing this program, I plan to study cybersecurity at university, and, my end goal is to build a career in that field.  
 This course is a first step toward becoming a skilled and responsible tech professional.
