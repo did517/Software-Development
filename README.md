@@ -12,7 +12,7 @@ It will serve as a portfolio of my progress, my learning, and the practical work
 
  ## About  Me
  
-I’m from the Democratic Republic of Congo.
+I’m from the Democratic Republic of Congo 🇨🇩.
 French is my native language, and I’m continuously improving my English to reach full fluency.
 I joined this program at a time when I wasn’t sure which career path to follow but, today, I know where I’m heading, and I’m fully committed to getting there.
 I’m still learning to enjoy coding, but I feel motivated when I build something useful and see it working as expected.
@@ -21,4 +21,4 @@ I’m still learning to enjoy coding, but I feel motivated when I build somethin
 
 I'm taking this program because I want to build a solid foundation in coding.  
 After completing this program, I plan to study cybersecurity at university, and, my end goal is to build a career in that field.  
-This course is a first step toward becoming a skilled and responsible tech professional.
+This course is a first step toward becoming a skilled and responsible tech professional.💪🏽
