@@ -97,7 +97,7 @@ import java.util.Scanner;
       System.out.println(" [ 1 ] for English"); 
       System.out.println(" [ 2 ] for French"); 
       System.out.println(" [ 3 ] for Spanish"); 
-      return scanner.nextInt(); 
+      return scanner.nextInt();  
     }
     // elle va servir au test
   public static boolean checkAnswer(String userAnswer, String correctAnswer) { 
